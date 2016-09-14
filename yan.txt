@@ -1,0 +1,15 @@
+candidate: 1
+recursiveFindMajorityElement( 0, 7, 8 )
+candidate: 2
+recursiveFindMajorityElement( 0, 7, 8 )
+candidate: 2
+recursiveFindMajorityElement( 0, 7, 8 )
+candidate: 4
+recursiveFindMajorityElement( 0, 7, 8 )
+candidate: 1
+recursiveFindMajorityElement( 0, 7, 8 )
+candidate: 4
+recursiveFindMajorityElement( 0, 7, 8 )
+candidate: 4
+recursiveFindMajorityElement( 0, 7, 8 )
+majority element: 0
